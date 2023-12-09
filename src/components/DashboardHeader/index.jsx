@@ -7,7 +7,7 @@ import '../../assets/styles/animation.css'
 
 export default function index() {
     return (
-        <section className='px-[1rem] md:px-[8rem] w-full min-h-screen relative flex items-center justify-center  '  >
+        <section id='home' className='px-[1rem] md:px-[8rem] w-full min-h-screen relative flex items-center justify-center  '  >
             <img src={DepanResto} className='faded-image w-full absolute h-screen md:max-h-screen -z-[2] object-cover' />
             <img src={DalamResto} className='faded-image w-full absolute h-screen md:max-h-screen -z-[2] object-cover' />
             <img src={DalamResto2} className='faded-image w-full absolute h-screen md:max-h-screen -z-[2] object-cover' />

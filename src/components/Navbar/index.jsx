@@ -62,7 +62,7 @@ export default function index(props) {
                         <ul className="text-[18px] flex flex-col  lg:flex-row items-center justify-around gap-[40px] ">
                             <li>
                                 <a
-                                    href="/"
+                                    href="#home"
                                     className="group transition duration-300 text-xl text-white "
                                 >
                                     Home{" "}
