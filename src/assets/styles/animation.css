@@ -1,0 +1,29 @@
+.faded-image:nth-child(4) {
+    animation: xfade 16s 0s infinite;
+}
+
+.faded-image:nth-child(3) {
+    animation: xfade 16s 4s infinite;
+}
+
+.faded-image:nth-child(2) {
+    animation: xfade 16s 8s infinite;
+}
+
+.faded-image:nth-child(1) {
+    animation: xfade 16s 12s infinite;
+}
+
+@keyframes xfade {
+    17% {
+        opacity: 1;
+    }
+
+    25% {
+        opacity: 0;
+    }
+
+    92% {
+        opacity: 0;
+    }
+}
