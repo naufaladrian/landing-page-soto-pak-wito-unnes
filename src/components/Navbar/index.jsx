@@ -62,7 +62,7 @@ export default function index(props) {
                         <ul className="text-[18px] flex flex-col  lg:flex-row items-center justify-around gap-[40px] ">
                             <li>
                                 <a
-                                    href="#"
+                                    href="/"
                                     className="group transition duration-300 text-xl text-white "
                                 >
                                     Home{" "}
@@ -71,7 +71,7 @@ export default function index(props) {
                             </li>
                             <li>
                                 <a
-                                    href="#"
+                                    href="#about"
                                     className="group transition duration-300 text-xl text-white"
                                 >
                                     Tentang{" "}
@@ -80,7 +80,7 @@ export default function index(props) {
                             </li>
                             <li>
                                 <a
-                                    href="#"
+                                    href="#menu"
                                     className="group transition duration-300 text-xl text-white"
                                 >
                                     Menu{" "}
@@ -89,7 +89,7 @@ export default function index(props) {
                             </li>
                             <li>
                                 <a
-                                    href="#"
+                                    href="#gallery"
                                     className="group transition duration-300 text-xl text-white"
                                 >
                                     Gallery{" "}
@@ -98,7 +98,7 @@ export default function index(props) {
                             </li>
                             <li>
                                 <a
-                                    href="#"
+                                    href="#fasilitas"
                                     className="group transition duration-300 text-xl     text-white"
                                 >
                                     Fasilitas{" "}
@@ -107,7 +107,7 @@ export default function index(props) {
                             </li>
                             <li>
                                 <a
-                                    href="#"
+                                    href="#lokasi"
                                     className="group transition duration-300 text-xl  text-white"
                                 >
                                     Lokasi{" "}

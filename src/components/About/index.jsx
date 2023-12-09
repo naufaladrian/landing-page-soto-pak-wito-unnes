@@ -3,7 +3,7 @@ import Soto from '../../assets/images/soto1.jpg'
 
 export default function index() {
     return (
-        <section className='w-full px-[1rem] md:px-[8rem] font-poppin bg-brown2 flex flex-col md:flex-row items-center py-8'>
+        <section id='about' className='w-full px-[1rem] md:px-[8rem] font-poppin bg-brown2 flex flex-col md:flex-row items-center py-8'>
             <div className='flex-[1]'>
                 <img src={Soto} className='w-[80%] m-auto mb-6 md:m-0 rounded-full border-amber-900 border-[2px]' alt="soto" />
             </div>

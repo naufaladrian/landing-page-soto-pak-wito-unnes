@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function index() {
     return (
-        <section className=' font-poppins w-full'>
+        <section id='gallery' className=' font-poppins w-full'>
             <div className='bg-brown3 px-[1rem] md:px-[8rem] py-6 text-center'>
                 <h2 className=' text-white font-semibold md:text-5xl text-4xl'>Gallery</h2>
             </div>
