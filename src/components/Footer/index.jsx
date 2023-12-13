@@ -10,7 +10,7 @@ export default function index() {
                 </div>
                 <div className='flex-1'>
                     <h3 className='font-semibold text-xl mb-3'>Jam Buka</h3>
-                    <p>Setiap Hari<br />Pukul 07.00 - 20.30</p>
+                    <p>Setiap Hari<br />Pukul 07.00 - 20.00</p>
                 </div>
                 <div className='flex-1'>
                     <h3 className='font-semibold text-xl mb-3'>Kontak</h3>
