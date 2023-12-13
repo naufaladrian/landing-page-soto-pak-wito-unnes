@@ -18,7 +18,7 @@ export default function index() {
                     <p>@sotopakwitounnes</p>
                 </div>
             </div>
-            <div className=' bg-[#1C150D] text-white text-center py-2 text-sm'>Copyright ©2022 Soto Dargo Pak Wito</div>
+            <div className=' bg-[#1C150D] text-white text-center py-2 text-sm'>Copyright ©2023 Soto Dargo Pak Wito</div>
         </footer>
     )
 }
