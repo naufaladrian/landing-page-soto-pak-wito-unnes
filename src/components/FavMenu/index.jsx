@@ -2,7 +2,7 @@ import React from 'react'
 import CardMenu from '../CardMenu'
 import Soto from '../../assets/images/soto1.jpg'
 import Uwuh from '../../assets/images/uwuh.jpg'
-import Sate from '../../assets/images/sate.jpg'
+import Sate from '../../assets/images/sate2.jpg'
 
 export default function index() {
     const menus = [
