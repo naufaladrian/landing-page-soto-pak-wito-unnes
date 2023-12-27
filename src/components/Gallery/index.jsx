@@ -13,7 +13,7 @@ export default function index() {
                             <div className="w-full max-w-full overflow-hidden">
                                 <img
                                     alt="gallery"
-                                    className="block h-full w-full object-cover object-center hover:scale-110 transition-all"
+                                    className="block h-full w-full object-cover object-center hover:scale-110 transition-all duration-700"
                                     src={`https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(${70 + index}).webp`}
                                 />
                             </div>
